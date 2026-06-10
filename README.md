@@ -194,7 +194,3 @@ Attendance %  : 83%
 Java Developer | MERN Stack Developer | DevOps Enthusiast
 
 ---
-
-## 📄 License
-
-This project is intended for educational and learning purposes.
