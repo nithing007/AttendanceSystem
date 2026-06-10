@@ -186,11 +186,3 @@ Attendance %  : 83%
 * Develop a GUI using Java Swing or JavaFX.
 
 ---
-
-## 👨‍💻 Author
-
-**Nithin G**
-
-Java Developer | MERN Stack Developer | DevOps Enthusiast
-
----
