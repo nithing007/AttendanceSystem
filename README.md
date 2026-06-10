@@ -72,20 +72,6 @@ INSERT INTO attendance_days VALUES (0);
 
 ---
 
-## ⚙️ Configuration
-
-Update the database credentials inside `AttendanceJDBC.java`.
-
-```java
-Connection con = DriverManager.getConnection(
-    "jdbc:mysql://localhost:3306/attendance_db",
-    "root",
-    "your_password"
-);
-```
-
----
-
 ## ▶️ How to Run
 
 ### 1. Clone the Repository
